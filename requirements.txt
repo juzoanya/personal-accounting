@@ -1,0 +1,7 @@
+Django==5.0.3
+pillow==10.2.0
+psycopg2_binary>=2.8
+sqlparse==0.4.4
+django-cors-headers==4.3.1
+django-oauth-toolkit
+python-dotenv
